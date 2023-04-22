@@ -1078,6 +1078,19 @@ section {
   margin-bottom: 40px;
 }
 
+.testimonials .section-header span {
+  position: absolute;
+  top: 46px;
+  color: rgba(255, 255, 255, 0.06);
+  left: 0;
+  right: 0;
+  z-index: 1;
+  font-weight: 700;
+  font-size: 56px;
+  text-transform: uppercase;
+  line-height: 0;
+}
+
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
