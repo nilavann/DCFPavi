@@ -362,6 +362,36 @@ section {
     background: #2756ff;
   }
 
+  .navbar .bt-whatsapp,
+  .navbar .bt-whatsapp:focus {
+    background: #25d366;
+    padding: 8px 20px;
+    margin-left: 30px;
+    border-radius: 4px;
+    color: #fff;
+  }
+
+  .navbar .bt-whatsapp:hover,
+  .navbar .bt-whatsapp:focus:hover {
+    color: #fff;
+    background: #25d366;
+  }
+
+  .navbar .bt-callus,
+  .navbar .bt-callus:focus {
+    background: #eddc6d;
+    padding: 8px 20px;
+    margin-left: 30px;
+    border-radius: 4px;
+    color: #fff;
+  }
+
+  .navbar .bt-callus:hover,
+  .navbar .bt-callus:focus:hover {
+    color: #fff;
+    background: #eddc6d;
+  }
+
   .navbar .dropdown ul {
     display: block;
     position: absolute;
@@ -1916,3 +1946,4 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
